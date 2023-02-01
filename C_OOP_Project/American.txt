@@ -1,0 +1,32 @@
+Software
+1
+Web Dev
+90000
+Software
+2
+Tester
+50000
+Data Science
+3
+Data Engineer
+80000
+Data Science
+4
+Data Scientist
+100000
+Data Science
+5
+Data Analyst
+70000
+Cyber Security
+6
+Security
+70000
+Database
+8
+Database
+40000
+Database
+9
+Database
+60000
